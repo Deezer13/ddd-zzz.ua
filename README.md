@@ -1,4 +1,4 @@
-<img src="https://gamerwall.pro/uploads/posts/2022-03/1648141359_1-gamerwall-pro-p-kislotno-fioletovii-fon-krasivie-1.jpg" width="1000" height="100">
+<img src="https://photy.org/photos/purple-gradient-wide-photy.org.jpg" width="1000" height="100">
 # ddd-zzz Frontend Developer
 - HTML 5
 - Что такое гиперсылка
