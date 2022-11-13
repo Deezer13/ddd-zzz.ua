@@ -1,3 +1,4 @@
+<img src="[https://st.depositphotos.com/1006065/2004/i/600/depositphotos_20041987-stock-photo-sunset-beach-this-photo-made.jpg](https://gamerwall.pro/uploads/posts/2022-03/1647851315_1-gamerwall-pro-p-fioletovii-fon-krasivie-1.png)" width="1000" height="100">
 # ddd-zzz Frontend Developer
 - HTML 5
 - Что такое гиперсылка
@@ -11,5 +12,3 @@ can you view [my site](http://deezer13.github.io/ddd-zzz/)
 «Битой» ссылкой называют такую гиперссылку, которая ссылается на отсутствующий по каким-либо причинам объект, например, если документ или файл удален или перемещен администратором ресурса, на котором он был расположен, или если сам ресурс недоступен. Обычно в таком случае на странице появляется сообщение с кодом ошибки, но это происходит не всегда.   
 
 <center><h3>Гиперссылка</h3><center>
-
-<img src="https://st.depositphotos.com/1006065/2004/i/600/depositphotos_20041987-stock-photo-sunset-beach-this-photo-made.jpg" width="1000" height="111">
