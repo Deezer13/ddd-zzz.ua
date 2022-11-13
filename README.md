@@ -12,4 +12,4 @@ can you view [my site](http://deezer13.github.io/ddd-zzz/)
 
 <center><h3>Гиперссылка</h3><center>
 
-<img src="https://st.depositphotos.com/1006065/2004/i/600/depositphotos_20041987-stock-photo-sunset-beach-this-photo-made.jpg">
+<img src="https://st.depositphotos.com/1006065/2004/i/600/depositphotos_20041987-stock-photo-sunset-beach-this-photo-made.jpg"> 
