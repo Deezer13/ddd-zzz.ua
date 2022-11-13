@@ -1,4 +1,4 @@
-<img src="https://photy.org/photos/purple-gradient-wide-photy.org.jpg" width="1000" height="50">
+<img src="https://photy.org/photos/purple-gradient-wide-photy.org.jpg" width="1100" height="50">
 # ddd-zzz Frontend Developer
 - HTML 5
 - Что такое гиперсылка
