@@ -1,4 +1,6 @@
-<img src="https://damion.club/uploads/posts/2022-01/thumbs/1641208592_2-damion-club-p-sinii-fon-bez-nichego-2.jpg" class="background" />
+<div class="background">
+  <img src="https://damion.club/uploads/posts/2022-01/thumbs/1641208592_2-damion-club-p-sinii-fon-bez-nichego-2.jpg" />
+</div>
 <p><img src="https://photy.org/photos/purple-gradient-wide-photy.org.jpg" width="1500" height="50"></p>
 # ddd-zzz Frontend Developer
 - HTML 5
