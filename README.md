@@ -1,5 +1,5 @@
 body {
-    background: url(https://damion.club/uploads/posts/2022-01/thumbs/1641208592_2-damion-club-p-sinii-fon-bez-nichego-2.jpg) no-repeat;
+    background: url "https://damion.club/uploads/posts/2022-01/thumbs/1641208592_2-damion-club-p-sinii-fon-bez-nichego-2.jpg" no-repeat;
     -moz-background-size: 100%;
     -webkit-background-size: 100%;
     -o-background-size: 100%;
